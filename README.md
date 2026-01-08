@@ -1067,6 +1067,9 @@ async function bootstrap() {
 - [ ] Basic CRUD APIs
 
 #### Frontend
+
+ملاحظة صغيرة: سنقوم بمراجعة كود الواجهة الحالية أولاً، وإذا تطلب الأمر إعادة بناء، سنستخدم هذه التقنيات. إذا كان الكود الحالي جيداً، سنلتزم به.
+
 - [ ] إعداد Next.js + Tailwind CSS
 - [ ] Layout + RTL + Dark Theme
 - [ ] Login Page + Auth Context
@@ -1753,6 +1756,7 @@ docker-compose up -d
 *هذا المشروع محمي بموجب اتفاقية السرية (NDA)*
 
 </div>
+
 
 
 
